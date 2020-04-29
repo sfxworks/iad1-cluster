@@ -1,1 +1,1 @@
-hi
+Central cluster on GCP that is used to manage central services and other clusters via ArgoCD.
